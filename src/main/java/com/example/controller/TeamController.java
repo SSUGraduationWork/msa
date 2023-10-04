@@ -13,7 +13,7 @@ import java.util.List;
 @RestController
 @AllArgsConstructor
 //@CrossOrigin(origins="http://localhost:8081")
-@RequestMapping("/team-service")
+@RequestMapping("/dashboard-service")
 public class TeamController {
 
 
